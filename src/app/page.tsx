@@ -165,38 +165,6 @@ export default function Portfolio() {
                 <li>Integração com bancos de dados relacionais e não-relacionais</li>
               </ul>
             </div>
-
-            <div className="border-l-2 border-gray-200 pl-6">
-              <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-3">
-                <div>
-                  <h3 className="text-lg font-medium text-gray-900">Desenvolvedor Front-end</h3>
-                  <p className="text-gray-600">TechCorp – São Paulo, SP</p>
-                </div>
-                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded">2022 – 2023</span>
-              </div>
-              <ul className="list-disc list-inside space-y-2 text-gray-700 text-sm">
-                <li>Desenvolvimento de interfaces responsivas com React e TypeScript</li>
-                <li>Implementação de designs usando Tailwind CSS e componentes reutilizáveis</li>
-                <li>Otimização de performance e SEO em aplicações Next.js</li>
-                <li>Colaboração com equipes de design e backend para entrega de projetos</li>
-              </ul>
-            </div>
-
-            <div className="border-l-2 border-gray-200 pl-6">
-              <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-3">
-                <div>
-                  <h3 className="text-lg font-medium text-gray-900">Desenvolvedor Junior</h3>
-                  <p className="text-gray-600">StartupTech – Remoto</p>
-                </div>
-                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded">2021 – 2022</span>
-              </div>
-              <ul className="list-disc list-inside space-y-2 text-gray-700 text-sm">
-                <li>Desenvolvimento de funcionalidades em JavaScript e Node.js</li>
-                <li>Manutenção e correção de bugs em aplicações existentes</li>
-                <li>Participação em code reviews e implementação de boas práticas</li>
-                <li>Aprendizado contínuo de novas tecnologias e frameworks</li>
-              </ul>
-            </div>
           </div> */}
         </section>
 
