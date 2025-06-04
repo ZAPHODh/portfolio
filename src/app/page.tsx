@@ -149,14 +149,14 @@ export default function Portfolio() {
 
         <section className="mb-12">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Experiência Profissional</h2>
-          {/* <div className="space-y-8">
+          <div className="space-y-8">
             <div className="border-l-2 border-gray-200 pl-6">
               <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-3">
                 <div>
                   <h3 className="text-lg font-medium text-gray-900">Full Stack Developer</h3>
-                  <p className="text-gray-600">Freelancer – Remoto</p>
+                  <p className="text-gray-600">Freelancer - Remoto</p>
                 </div>
-                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded">2023 – Atual</span>
+                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded">2023 - Atual</span>
               </div>
               <ul className="list-disc list-inside space-y-2 text-gray-700 text-sm">
                 <li>Desenvolvimento de aplicações web completas usando Next.js e TypeScript</li>
@@ -165,7 +165,7 @@ export default function Portfolio() {
                 <li>Integração com bancos de dados relacionais e não-relacionais</li>
               </ul>
             </div>
-          </div> */}
+          </div>
         </section>
 
         <Separator className="my-8" />

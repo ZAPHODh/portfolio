@@ -1,11 +1,11 @@
 ---
-title: "Servidor Sistema de Gestão para são de beleza"
-description: "Servidor que gerencia usuarios, inscrições e toda uma arquitetura para gestão de saloes de beleza"
+title: "Sistema de Gestão para salão de beleza"
+description: "Servidor que gerencia usuários, inscrições e toda uma arquitetura para gestão de salão de beleza"
 date: "2025-04-23"
 technologies: ["Nextjs", "Node.js", "PostgreSQL", "Stripe", "Tailwind"]
 ---
 
-# Servidor Sistema de Gestão para são de beleza
+#Sistema de Gestão para salão de beleza
 
 ## Descrição do Projeto
 
