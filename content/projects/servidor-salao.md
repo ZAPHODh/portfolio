@@ -5,8 +5,6 @@ date: "2025-04-23"
 technologies: ["Nextjs", "Node.js", "PostgreSQL", "Stripe", "Tailwind"]
 ---
 
-#Sistema de Gestão para salão de beleza
-
 ## Descrição do Projeto
 
 Um servidor robusto para gerenciar agendamentos, clientes, serviços e finanças de salões de beleza, desenvolvido com tecnologias modernas para otimizar a operação do negócio.
@@ -26,4 +24,5 @@ Um servidor robusto para gerenciar agendamentos, clientes, serviços e finanças
 - Triggers para auditoria
 - Backup automatizado
 
-
+## Repositório
+   [https://github.com/ZAPHODh/salon-server](https://github.com/ZAPHODh/salon-server)
