@@ -135,7 +135,7 @@ export default function Portfolio() {
             <div>
               <h3 className="font-medium text-gray-700 mb-3">Ferramentas & Banco de Dados</h3>
               <div className="flex flex-wrap gap-2">
-                {["PostgreSQL", "MongoDB", "MySQL", "GraphQL", "Redis", "Git", "Docker"].map((skill) => (
+                {["PostgreSQL", "MongoDB", "MySQL", "GraphQL", "Prisma", "Git", "Docker"].map((skill) => (
                   <Badge key={skill} variant="secondary" className="bg-gray-100 text-gray-700 hover:bg-gray-200">
                     {skill}
                   </Badge>
