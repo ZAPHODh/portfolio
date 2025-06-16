@@ -219,8 +219,8 @@ export default function Portfolio() {
                 <p className="text-gray-600 text-sm">Ensino médio completo</p>
               </div>
               <div>
-                <h3 className="font-medium text-gray-900">Estácio de Sá</h3>
-                <p className="text-gray-600 text-sm">Análise e Desenvolvimento de Sistemas - Incompleto</p>
+                <h3 className="font-medium text-gray-900">Unigranrio</h3>
+                <p className="text-gray-600 text-sm">Análise e Desenvolvimento de Sistemas - Cursando</p>
               </div>
             </div>
           </section>
