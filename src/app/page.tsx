@@ -110,6 +110,20 @@ export default function Portfolio() {
         <Separator className="my-8" />
 
         <section className="mb-12">
+          <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-black-500">
+            <h2 className="text-xl font-semibold text-gray-900 mb-4">Sobre Mim</h2>
+            <p className="text-gray-700 leading-relaxed">
+              Sou Luis, desenvolvedor Full Stack apaixonado por tecnologia com experiência sólida em desenvolvimento web.
+              Especializado em criar soluções escaláveis e eficientes utilizando tecnologias como Next.js, React,
+              Node.js e TypeScript. Tenho um forte foco em qualidade de código, performance e experiência do usuário.
+              Atualmente cursando Análise e Desenvolvimento de Sistemas, busco constantemente aprimorar minhas
+              habilidades e me manter atualizado.
+            </p>
+          </div>
+        </section>
+
+        <Separator className="my-8" />
+        <section className="mb-12">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Habilidades Técnicas</h2>
           <div className="grid md:grid-cols-3 gap-6">
             <div>
