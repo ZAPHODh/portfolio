@@ -229,12 +229,12 @@ export default function Portfolio() {
             <h2 className="text-lg font-semibold text-gray-900 mb-4">Educação</h2>
             <div className="space-y-4">
               <div>
-                <h3 className="font-medium text-gray-900">Escola Estadual Professora Maria José Raunheitti Duccini</h3>
-                <p className="text-gray-600 text-sm">Ensino médio completo</p>
-              </div>
-              <div>
                 <h3 className="font-medium text-gray-900">Unigranrio</h3>
                 <p className="text-gray-600 text-sm">Análise e Desenvolvimento de Sistemas - Cursando</p>
+              </div>
+              <div>
+                <h3 className="font-medium text-gray-900">Escola Estadual Professora Maria José Raunheitti Duccini</h3>
+                <p className="text-gray-600 text-sm">Ensino médio completo</p>
               </div>
             </div>
           </section>
