@@ -113,8 +113,8 @@ export default function Portfolio() {
           <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-black-500">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">Sobre Mim</h2>
             <p className="text-gray-700 leading-relaxed">
-              Sou Luis, desenvolvedor Full Stack apaixonado por tecnologia com experiência sólida em desenvolvimento web.
-              Especializado em criar soluções escaláveis e eficientes utilizando tecnologias como Next.js, React,
+              Sou Luis, desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento web.
+              Crio soluções escaláveis e eficientes utilizando tecnologias como Next.js, React,
               Node.js e TypeScript. Tenho um forte foco em qualidade de código, performance e experiência do usuário.
               Atualmente cursando Análise e Desenvolvimento de Sistemas, busco constantemente aprimorar minhas
               habilidades e me manter atualizado.
